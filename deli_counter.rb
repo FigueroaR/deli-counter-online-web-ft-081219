@@ -8,4 +8,6 @@ def line(deli)
     end
     puts current_line
   end
-end# Write your code here.
+end
+
+def take_a_number(deli, name)
